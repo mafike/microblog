@@ -1,0 +1,4 @@
+__pycache__/*
+app/__pycache__/*
+build/__pycache__/*
+app/translations/*
